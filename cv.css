@@ -1,0 +1,29 @@
+h1{
+    text-transform: uppercase;
+    color: rgb(0, 41, 66);
+}
+h2{
+    text-transform: uppercase;
+    color: rgb(0, 41, 66);
+}
+body{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("img/fondo-telarana.jpg");
+   
+}
+p{
+    font-size: 20px;
+    color: rgb(155, 0, 0);
+    width: 500px;
+    margin-left: 700px;
+
+}
+
+ul{
+    font-size: 20px;
+    color: rgb(155, 0, 0);
+}
+div{
+    background-color: rgba(85, 130, 179, 0.589);
+}
